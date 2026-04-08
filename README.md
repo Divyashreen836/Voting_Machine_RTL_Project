@@ -29,5 +29,4 @@ Schematic generated and verified for hardware implementation.
 - synthesis → Schematic diagrams
 
 ## 👩‍💻 Authors
-- Your Name
 Divyashree N
